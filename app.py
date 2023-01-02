@@ -24,6 +24,7 @@ def help(update, context):
         """
     )
 
+    
 def content(update, context):
     update.message.reply_text("We have various playlist and articles available")
 
